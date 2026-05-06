@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260505-173921-mksr",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-05-06T00:39:21.000Z",
+      "dateEnd": "2026-05-06T01:44:41.000Z",
+      "dateLabel": "5/5/2026, 5:39:21 PM - 5/5/2026, 6:44:41 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20260505-173921-mksr",
+      "summary": {
+        "borderlandsPct": 0.7058823529411765,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260428-182113-xytv",
       "title": "Vape Onion Star",
       "commanders": [
