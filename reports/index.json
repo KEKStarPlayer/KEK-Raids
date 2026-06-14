@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-171058-pnz4",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-06-14T00:10:58.000Z",
+      "dateEnd": "2026-06-14T01:03:43.000Z",
+      "dateLabel": "6/13/2026, 5:10:58 PM - 6/13/2026, 6:03:43 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20260613-171058-pnz4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260610-170809-gagx",
       "title": "Vape Onion Star",
       "commanders": [
