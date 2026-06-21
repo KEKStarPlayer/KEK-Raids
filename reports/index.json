@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-150904-zhyt",
+      "title": "Deshka Il, Vape Onion Star",
+      "commanders": [
+        "Deshka Il",
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-06-21T22:09:04.000Z",
+      "dateEnd": "2026-06-21T22:45:56.000Z",
+      "dateLabel": "6/21/2026, 3:09:04 PM - 6/21/2026, 3:45:56 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20260621-150904-zhyt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260619-190909-007g",
       "title": "Vape Onion Star",
       "commanders": [
