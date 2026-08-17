@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-174438-6ptn",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-08-17T00:44:38.000Z",
+      "dateEnd": "2026-08-17T01:29:36.000Z",
+      "dateLabel": "8/16/2026, 5:44:38 PM - 8/16/2026, 6:29:36 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20260816-174438-6ptn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 55,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260728-182749-h95l",
       "title": "Vape Onion Star",
       "commanders": [
