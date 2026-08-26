@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-191754-hc5w",
+      "title": "Paralda, Vape Onion Star",
+      "commanders": [
+        "Paralda",
+        "Vape Onion Star"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-26T02:17:54.000Z",
+      "dateEnd": "2026-08-26T03:05:59.000Z",
+      "dateLabel": "8/25/2026, 7:17:54 PM - 8/25/2026, 8:05:59 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20260825-191754-hc5w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260819-180341-nu38",
       "title": "Vape Onion Star",
       "commanders": [
