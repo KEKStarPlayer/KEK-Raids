@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-100133-v1dm",
+      "title": "Model Citizen Star",
+      "commanders": [
+        "Model Citizen Star"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-09-12T17:01:33.000Z",
+      "dateEnd": "2026-09-12T18:23:47.000Z",
+      "dateLabel": "9/12/2026, 10:01:33 AM - 9/12/2026, 11:23:47 AM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20260912-100133-v1dm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260908-175856-uzdm",
       "title": "Mael The Goddess, Super Soaker Star",
       "commanders": [
