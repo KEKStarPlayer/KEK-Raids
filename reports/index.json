@@ -5,6 +5,35 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261004-135316-7jc8",
+      "title": "Magician Of Drascir, Super Soaker Star",
+      "commanders": [
+        "Magician Of Drascir",
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-04T20:53:16.000Z",
+      "dateEnd": "2026-10-04T22:00:27.102Z",
+      "dateLabel": "10/4/2026, 1:53:16 PM - 10/4/2026, 3:00:27 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20261004-135316-7jc8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261003-150524-iov8",
       "title": "Super Soaker Star",
       "commanders": [
