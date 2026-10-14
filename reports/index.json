@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261013-182926-ffdv",
+      "title": "Super Soaker Star",
+      "commanders": [
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-14T01:29:26.000Z",
+      "dateEnd": "2026-10-14T02:20:46.830Z",
+      "dateLabel": "10/13/2026, 6:29:26 PM - 10/13/2026, 7:20:46 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20261013-182926-ffdv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261006-181657-2y02",
       "title": "Super Soaker Star",
       "commanders": [
