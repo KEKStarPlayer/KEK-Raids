@@ -1,9 +1,43 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
   "entries": [
+    {
+      "id": "20261021-191844-au0h",
+      "title": "Super Soaker Star, Tukuwu",
+      "commanders": [
+        "Super Soaker Star",
+        "Tukuwu"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-22T02:18:44.000Z",
+      "dateEnd": "2026-10-22T03:02:28.910Z",
+      "dateLabel": "10/21/2026, 7:18:44 PM - 10/21/2026, 8:02:28 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20261021-191844-au0h",
+      "publishedBy": "KEKStarPlayer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20261021-180344-prnu",
       "title": "Super Soaker Star",
