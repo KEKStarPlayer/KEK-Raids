@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261027-192300-qpyu",
+      "title": "Deshka Il, Super Soaker Star",
+      "commanders": [
+        "Deshka Il",
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-28T02:23:00.000Z",
+      "dateEnd": "2026-10-28T03:01:55.043Z",
+      "dateLabel": "10/27/2026, 7:23:00 PM - 10/27/2026, 8:01:55 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20261027-192300-qpyu",
+      "publishedBy": "KEKStarPlayer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261023-191233-rmry",
       "title": "Super Soaker Star",
       "commanders": [
