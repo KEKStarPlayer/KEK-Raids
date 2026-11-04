@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261103-182132-2m7a",
+      "title": "Star Instigator",
+      "commanders": [
+        "Star Instigator"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-11-04T02:21:32.000Z",
+      "dateEnd": "2026-11-04T03:13:49.241Z",
+      "dateLabel": "11/3/2026, 6:21:32 PM - 11/3/2026, 7:13:49 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20261103-182132-2m7a",
+      "publishedBy": "KEKStarPlayer",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 35
+      }
+    },
     {
       "id": "20261027-192300-qpyu",
       "title": "Deshka Il, Super Soaker Star",
