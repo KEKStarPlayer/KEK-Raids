@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-180939-vg8j",
+      "title": "Star Instigator",
+      "commanders": [
+        "Star Instigator"
+      ],
+      "guild": {
+        "id": "BEB8488B-552B-EF11-81AC-95DFE50946EB",
+        "name": "Pve Retreat",
+        "tag": "PvER"
+      },
+      "dateStart": "2026-11-19T02:09:39.000Z",
+      "dateEnd": "2026-11-19T02:56:50.851Z",
+      "dateLabel": "11/18/2026, 6:09:39 PM - 11/18/2026, 6:56:50 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20261118-180939-vg8j",
+      "publishedBy": "KEKStarPlayer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20261118-192244-yg5b",
       "title": "Star Instigator",
       "commanders": [
