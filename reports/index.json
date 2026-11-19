@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-192244-yg5b",
+      "title": "Star Instigator",
+      "commanders": [
+        "Star Instigator"
+      ],
+      "guild": {
+        "id": "BEB8488B-552B-EF11-81AC-95DFE50946EB",
+        "name": "Pve Retreat",
+        "tag": "PvER"
+      },
+      "dateStart": "2026-11-19T03:22:44.000Z",
+      "dateEnd": "2026-11-19T03:59:56.878Z",
+      "dateLabel": "11/18/2026, 7:22:44 PM - 11/18/2026, 7:59:56 PM",
+      "url": "https://KEKStarPlayer.github.io/KEK-Raids/?report=20261118-192244-yg5b",
+      "publishedBy": "KEKStarPlayer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261109-184001-lvl7",
       "title": "Star Instigator",
       "commanders": [
